@@ -5,11 +5,11 @@ El presente repositorio tiene como finalidad mantener el código elaborado en el
 ## Código
 
 Se puede descargar el Código del repositorio usando el boton **Clone or Download** o se puede descargar usando [`git`](https://git-scm.com/downloads), en el caso de usar git se pueden ir descargando las modificaciones que se hagan a los códigos.
-```markdown
-- Clonar el repositorio
+```Batchfile
+# Clonar el repositorio
 $ git clone https://github.com/masotelof/BProg.git
 
-- Descargar los cambios hechos en el repositorio
+# Descargar los cambios hechos en el repositorio
 $ git pull
 ```
 
